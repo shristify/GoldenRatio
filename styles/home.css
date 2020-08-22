@@ -1,0 +1,33 @@
+html body{
+    background-color:#e2bef1;
+    overflow:hidden;
+  }
+  .navbar{
+  display: flex;
+   }
+  
+  @media(max-width:620px){
+    .navbar{
+      display: block;
+    }
+  
+    img{
+      min-width:200px;
+    }
+    .d{
+      display: flex;
+      flex-direction: column;
+    
+    }
+  }
+  li a{
+    font-family: 'Roboto';
+    font-size: large ;
+    color:white;
+    text-decoration: none;
+  }
+  .cover{
+    display:flex;
+    justify-content: center;
+     box-shadow: 12px 12px 2px 1px rgba(241, 76, 167, 0.575);
+  }

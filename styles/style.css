@@ -1,0 +1,57 @@
+
+.rectangle {
+    border:2px solid red;
+    position: absolute;
+}
+.line{
+  border:2px solid red;
+  position: absolute;
+}
+body{
+  background-color:#e2bef1;
+}
+#canvas{
+   background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9hM9iBJ9-inA7DLbQr11IaV_xoVMLteazNw&usqp=CAU');
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 500px;
+    width: 500px;
+   border: 1px solid transparent;
+}
+.wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  top: 10px;
+}
+
+.wrapper input[type=file] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+.navbar{
+display: flex;
+  background: linear-gradient(#f9ded7,#f5cdde,#e2bef1);
+}
+canvas {
+  cursor: crosshair;
+  border: 1px solid #000000;
+}
+@media(max-width:300px){
+  .navbar{
+    display: block;
+  }
+}
+.columns div{
+display:flex;
+justify-content:center;
+margin:auto;
+}
+.col{
+  align-items: center;
+  flex-direction: column;
+}

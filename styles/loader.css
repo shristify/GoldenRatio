@@ -1,0 +1,22 @@
+body{
+  background-color: #e2bef1;
+  margin: 0;
+  overflow: hidden;
+  cursor: crosshair;
+}
+
+canvas{
+  touch-action: none;
+}
+
+.box1{
+  width: 100%;
+  height: 100%;            
+  position: absolute;  
+}
+#down{
+  z-index:15;
+}
+#up{
+  z-index:10;
+}
