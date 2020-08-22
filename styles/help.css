@@ -7,8 +7,18 @@ html body{
   background: linear-gradient(#f9ded7,#f5cdde,#e2bef1);
 
    }
-  
+   @media(max-width:620px){
+  .one{
+    width: fit-content;
+  }
+}
   @media(max-width:620px){
     .navbar{
       display: block;
     }
+    .read{
+display: flex;
+flex-direction: column;
+    }
+
+  }
