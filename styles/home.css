@@ -5,25 +5,34 @@ html body{
   .navbar{
   display: flex;
    }
-  
-  @media(max-width:620px){
+   @media(max-width:620px){
     .navbar{
       display: block;
     }
-  
     img{
       min-width:200px;
     }
+  }
+  @media(max-width:900px){
     .d{
       display: flex;
       flex-direction: column;
-    
+    }
+  }
+  @media(max-width:768px){
+    .x{
+      margin:0;
+      width:100%;
+    }
+    .x1{
+      
+      margin:auto;
     }
   }
   li a{
     font-family: 'Roboto';
     font-size: large ;
-    color:white;
+    color:white; 
     text-decoration: none;
   }
   .cover{
