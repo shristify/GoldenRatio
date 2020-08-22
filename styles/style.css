@@ -9,6 +9,12 @@
 }
 body{
   background-color:#e2bef1;
+  
+}
+.card1{
+  width: max-content;
+  height: max-content;
+
 }
 #canvas{
    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9hM9iBJ9-inA7DLbQr11IaV_xoVMLteazNw&usqp=CAU');
@@ -41,10 +47,14 @@ canvas {
   cursor: crosshair;
   border: 1px solid #000000;
 }
-@media(max-width:300px){
+@media(max-width:400px){
   .navbar{
     display: block;
   }
+.read{
+  display:flex;
+  flex-direction: column;
+}
 }
 .columns div{
 display:flex;
