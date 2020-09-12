@@ -9,9 +9,12 @@ html body{
    }
    @media(max-width:620px){
   .one{
-    width: fit-content;
+    width: max-content;
   }
-}
+  .two{
+    width: 100%;
+  }
+ }
   @media(max-width:620px){
     .navbar{
       display: block;
@@ -22,3 +25,4 @@ flex-direction: column;
     }
 
   }
+  
