@@ -6,7 +6,7 @@ html body{
   display: flex;
    }
    @media(max-width:620px){
-    .navbar{
+    .navbar1{
       display: block;
     }
     img{
