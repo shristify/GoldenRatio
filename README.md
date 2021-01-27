@@ -1,6 +1,6 @@
 # GoldenRatio
 
-           ![GOLDEN RATIO](https://github.com/confusedcoder1/GoldenRatio/blob/master/images/Capture.PNG)
+  ![GOLDEN RATIO](https://github.com/confusedcoder1/GoldenRatio/blob/master/images/Capture.PNG)
 
 ### Entry To HackBenchers4
 
@@ -10,14 +10,14 @@
 * Javascript
 
 ## WHAT IS IT?
-          ![PHI](https://github.com/confusedcoder1/GoldenRatio/blob/master/images/right2.jpg)
+   ![PHI](https://github.com/confusedcoder1/GoldenRatio/blob/master/images/right2.jpg)
 - Golden Ratio or Golden Number, also known as PHI, has an estimate value of 1.618. 
 
 ## WHY IS IT "GOLDEN"?
 - The number has been certified golden, owing to it's presence in almost everything in the world, and it's applications in various fields like construction, art, beauty and definitely mathematics.
 
 ## PROJECT FEATURES AND OBJECTIVES
-        ![EVERYWHERE](https://github.com/confusedcoder1/GoldenRatio/blob/master/images/TWEET.PNG)
+   ![EVERYWHERE](https://github.com/confusedcoder1/GoldenRatio/blob/master/images/TWEET.PNG)
 - From a not so easy joke on Golden Ratio's omnipresensce, first to the view is Home page.
 - Home Page contains Tit Bits, a little bit of everything one can read about the ratio, with loop videos and images, and links to extensive resources.
 - The page starts with navigation, to switch to different pages and different sections on same page.
