@@ -4,3 +4,7 @@
 
 ### Entry To HackBenchers4
 
+## LANGUAGES INVOLVED
+* HTML, CSS
+* Bulma
+* Javascript
